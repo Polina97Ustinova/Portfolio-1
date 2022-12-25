@@ -1,0 +1,17 @@
+ source https://www.kaggle.com/datasets/emmanueldjegou/sales-dataset-enlarged
+
+About Dataset:
+Looking painstakingly at the dataset, it's noticeable that some inconsistencies are messing up our data.
+In fact, the columns Product and line should count for a sigle attribut. 
+Then, the actual observation should be Camping Equipment. 
+Similarily, columns such as Retailer and country, are undergoing the same issue. 
+In addition, the values of the rows regarding the attributs order and method do not convey any relevant information.
+Consequently, some supplemental work need to be done in the analysis.
+
+
+#### What to do:
+¤ Clean data by putting it in correct columms (Python)
+  ¤ change product line to Camping Equipment
+  ¤  change country and retailer
+  ¤ rearenge them (columns)
+¤ Visualize it (Tableu)

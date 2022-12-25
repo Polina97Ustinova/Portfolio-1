@@ -1,0 +1,43 @@
+https://www.kaggle.com/datasets/niramay/educational-institutes-and-finances
+
+----Data name: 
+Educational institutes and Finances
+
+
+----To do:
+check the data
+clean it 
+transfer it to posgresql 
+sort and organized into what you need 
+
+
+
+----Questions:
+(basic)
+Who gets more operating income? 
+Who gets least operating income? 
+
+Who gets more grands from the state? 
+Who gets least grands from the state?
+
+Who gets more other grands from the state? 
+Who gets least other grands from the state?
+
+
+Who gets more tutition and exam fees? 
+Who gets least  tutition and exam fees?
+
+
+Who gets more income from contracts with third parties? 
+Who gets least income from contracts with third partie?
+
+Who gets more other income? 
+Who gets least other income?
+
+
+Who costs the most? 
+Who costs the least? 
+
+
+compare who cost the most and who gets most grands from the state?
+compare who cost the most and who gets least grands from the state?

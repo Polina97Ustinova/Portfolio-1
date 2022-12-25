@@ -1,0 +1,15 @@
+####Source of data: https://www.kaggle.com/datasets/emmanueldjegou/campaign-dataset
+
+
+######About Dataset:
+The concern with this Dataset is that views and likes are our attributs of interest so they shouldn't be loaded as row values. 
+Instead, they must be displayed as column names. 
+As a result, we addressed this in the related notebook.
+
+######What to do?
+¤ Clean it (by putting everything in correct columms) (Python)
+
+¤ Sort by what bigger and what smaller (python)
+
+¤ Visualize it (Tableu)
+

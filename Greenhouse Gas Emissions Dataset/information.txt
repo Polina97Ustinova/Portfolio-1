@@ -1,0 +1,23 @@
+https://www.kaggle.com/datasets/michaelbryantds/greenhouse-gas-emissions-dataset
+
+----Data name: 
+Greenhouse Gas Emissions Dataset
+
+
+
+----To do:
+check the data
+clean it 
+transfer it to posgresql 
+sort and organized into what you need 
+
+
+
+----questions:
+(basic)
+
+What industry produce the most gas emisions in this data set?
+What industry the least gas emisions in this data set?
+
+indiviual industy who is producing the most emision what country is on top
+indiviual industy who is producing the least emision what country is on bottom
