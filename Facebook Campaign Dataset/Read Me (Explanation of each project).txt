@@ -1,0 +1,16 @@
+PROJECTS:
+
+Greenhouse Campaign Dataset — gas emissions of different countries
+Data cleaning, organizing in Python, then going though SQL to orginize data more and displaying it in Tableau.
+
+Educational institutes and finanes — finances of different schools
+Data cleaning, organizing in Python, then going though SQL to orginize data more and displaying it in Tableau.
+
+Facebook Campaign Dataset — like and dislikes
+Data cleaning, organizing in Python and displaying it in Tableau.
+
+Sales Dataset Enlarged — Sales in different countries
+Data cleaning, organizing in Python and displaying it in Tableau.
+
+Steam Games — Games play time
+Data cleaning, organizing in Python and writing a short essay about data that was analysed and the result of the data.
